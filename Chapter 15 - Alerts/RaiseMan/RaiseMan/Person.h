@@ -6,6 +6,9 @@
 //  Copyright (c) 2011 Big Nerd Ranch. All rights reserved.
 //
 
+
+/*做了一些修改进行测试*/
+
 #import <Foundation/Foundation.h>
 
 @interface Person : NSObject <NSCoding> {
