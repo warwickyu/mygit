@@ -8,6 +8,8 @@
 
 #import <Cocoa/Cocoa.h>
 
+/*mygit*/
+
 @class Person;
 
 @interface RMDocument : NSDocument {
