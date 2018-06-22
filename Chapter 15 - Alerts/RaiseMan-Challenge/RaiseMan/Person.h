@@ -8,6 +8,8 @@
 
 #import <Foundation/Foundation.h>
 
+/*fix*/
+
 @interface Person : NSObject <NSCoding> {
 	NSString *personName;
 	float expectedRaise;
