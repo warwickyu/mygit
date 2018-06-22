@@ -9,6 +9,8 @@
 
 /*做了一些修改进行测试*/
 
+/*你好，我是mygit*/
+
 #import <Foundation/Foundation.h>
 
 @interface Person : NSObject <NSCoding> {
