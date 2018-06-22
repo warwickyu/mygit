@@ -101,4 +101,3 @@ You're not alone.
 
 This is not an issue with Git, not the installer. Apparently
 subversion has it too.
-ben is here...
