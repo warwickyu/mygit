@@ -168,3 +168,5 @@ upCaseErrorDescription
 let description=errorDescription ?? "No error"
 
 let hello = 1
+
+let my_name = "yu"
